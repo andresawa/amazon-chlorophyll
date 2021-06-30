@@ -1,5 +1,5 @@
 # Seawater chlorophyll-a concentrations time series from satellite observations
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/andresawa/amazon-chlorophyll/main?filepath=chlorophyll.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)] (https://notebooks.gesis.org/binder/v2/gh/andresawa/amazon-chlorophyll/main?filepath=chlorophyll.ipynb
 
 A Binder-compatible repository containing a Jupyter notebook (**chlorophyll.ipynb**) for the calculus of chlorophyll-a temporal changes in the Atlantic Ocean from satellite observations. Satellite chlorophyll-a concentrations come from the ESA [Ocean-Colour Climate Change Initiative (OC-CCI) v5](https://climate.esa.int/en/projects/ocean-colour/). 
 
